@@ -1,0 +1,23 @@
+{
+  "name": "automatedsystemforlocalgps",
+  "version": "1.0.0",
+  "description": "The automated system for local gps is an online system that will allow patients to make appoitment with their doctors online and manage their repeated prescriptions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iameclair/AutomatedSystemForLocalGPs_V01.git"
+  },
+  "author": "Eclair Lumu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iameclair/AutomatedSystemForLocalGPs_V01/issues"
+  },
+  "homepage": "https://github.com/iameclair/AutomatedSystemForLocalGPs_V01#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
